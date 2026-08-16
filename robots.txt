@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://username.github.io/jewlery-test1/sitemap.xml

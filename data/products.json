@@ -1,0 +1,218 @@
+[
+  {
+    "id": "JWL001",
+    "name": "Elegant Gold Necklace",
+    "category": "Necklaces",
+    "price": 45999,
+    "currency": "INR",
+    "description": "Beautiful 22K gold necklace featuring intricate traditional motifs with a modern twist. Perfect for weddings and special occasions.",
+    "material": "22K Gold",
+    "weight": "12.5g",
+    "type": "Necklace",
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600",
+      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600"
+    ],
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "JWL002",
+    "name": "Diamond Studded Ring",
+    "category": "Rings",
+    "price": 89999,
+    "currency": "INR",
+    "description": "Exquisite diamond ring set in 18K white gold. Features a brilliant-cut center stone surrounded by smaller accent diamonds.",
+    "material": "18K White Gold, Diamond",
+    "weight": "4.2g",
+    "type": "Ring",
+    "sizes": ["6", "7", "8", "9", "10"],
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=600",
+      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=600"
+    ],
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "JWL003",
+    "name": "Pearl Drop Earrings",
+    "category": "Earrings",
+    "price": 24999,
+    "currency": "INR",
+    "description": "Graceful pearl drop earrings with gold accents. South Sea pearls paired with delicate gold filigree work.",
+    "material": "22K Gold, South Sea Pearl",
+    "weight": "6.8g",
+    "type": "Earring",
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600",
+      "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=600"
+    ],
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "JWL004",
+    "name": "Traditional Gold Bangles Set",
+    "category": "Bangles",
+    "price": 59999,
+    "currency": "INR",
+    "description": "Set of 4 traditional gold bangles with intricate temple jewellery-inspired designs. Handcrafted with precision.",
+    "material": "22K Gold",
+    "weight": "32g",
+    "type": "Bangle Set",
+    "sizes": ["2.4", "2.6", "2.8"],
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600",
+      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=600"
+    ],
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "JWL005",
+    "name": "Silver Charm Bracelet",
+    "category": "Bracelets",
+    "price": 12999,
+    "currency": "INR",
+    "description": "Sterling silver charm bracelet with hand-crafted charms. Lightweight and perfect for daily wear.",
+    "material": "925 Sterling Silver",
+    "weight": "15g",
+    "type": "Bracelet",
+    "sizes": ["S", "M", "L"],
+    "images": [
+      "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600",
+      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=600"
+    ],
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "JWL006",
+    "name": "Kundan Bridal Necklace Set",
+    "category": "Bridal Jewellery",
+    "price": 125999,
+    "currency": "INR",
+    "description": "Stunning Kundan bridal necklace set including necklace, earrings, and maang tikka. Traditional Rajasthani craftsmanship meets contemporary design.",
+    "material": "22K Gold, Kundan, Meenakari",
+    "weight": "85g",
+    "type": "Bridal Set",
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=600",
+      "https://images.unsplash.com/photo-1610694955371-d4a3e0ce4b52?w=600"
+    ],
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "JWL007",
+    "name": "Gold Chain for Men",
+    "category": "Chains",
+    "price": 39999,
+    "currency": "INR",
+    "description": "Solid 22K gold chain with a classic link pattern. Durable and elegant, suitable for everyday wear.",
+    "material": "22K Gold",
+    "weight": "18g",
+    "type": "Chain",
+    "sizes": ["18 inch", "20 inch", "22 inch", "24 inch"],
+    "images": [
+      "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=600",
+      "https://images.unsplash.com/photo-1602752250015-52934bc45613?w=600"
+    ],
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "JWL008",
+    "name": "Ruby Pendant with Chain",
+    "category": "Pendants",
+    "price": 34999,
+    "currency": "INR",
+    "description": "Gorgeous natural ruby pendant set in 18K gold with diamond halo. Includes a matching 18-inch gold chain.",
+    "material": "18K Gold, Natural Ruby, Diamond",
+    "weight": "8.5g",
+    "type": "Pendant",
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=600",
+      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600"
+    ],
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "JWL009",
+    "name": "Antique Silver Jhumkas",
+    "category": "Earrings",
+    "price": 8999,
+    "currency": "INR",
+    "description": "Oxidized silver jhumka earrings with traditional Rajasthani mirror work. Lightweight statement earrings for festive occasions.",
+    "material": "Oxidized Silver",
+    "weight": "12g",
+    "type": "Jhumka Earring",
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=600",
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600"
+    ],
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "JWL010",
+    "name": "Gold Temple Jewellery Necklace",
+    "category": "Gold Jewellery",
+    "price": 75999,
+    "currency": "INR",
+    "description": "Majestic temple jewellery necklace inspired by South Indian tradition. Features Lakshmi coin motifs and intricate gold work.",
+    "material": "22K Gold",
+    "weight": "35g",
+    "type": "Temple Necklace",
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600",
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600"
+    ],
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "JWL011",
+    "name": "Silver Toe Rings Set",
+    "category": "Silver Jewellery",
+    "price": 2999,
+    "currency": "INR",
+    "description": "Set of 4 adjustable sterling silver toe rings with traditional Indian motifs. Perfect for brides and everyday elegance.",
+    "material": "925 Sterling Silver",
+    "weight": "8g",
+    "type": "Toe Ring",
+    "sizes": ["Adjustable"],
+    "images": [
+      "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600",
+      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=600"
+    ],
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "JWL012",
+    "name": "Polki Diamond Choker",
+    "category": "Necklaces",
+    "price": 159999,
+    "currency": "INR",
+    "description": "Regal Polki diamond choker necklace with emerald drops. Handcrafted using the ancient uncut diamond technique. A true heirloom piece.",
+    "material": "22K Gold, Polki Diamond, Emerald",
+    "weight": "48g",
+    "type": "Choker",
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=600",
+      "https://images.unsplash.com/photo-1610694955371-d4a3e0ce4b52?w=600"
+    ],
+    "available": false,
+    "featured": false
+  }
+]
